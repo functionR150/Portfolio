@@ -6,7 +6,7 @@
         "id": "DtNBZFHO3M7n"
       },
       "source": [
-        "# **Build a Machine learning model**\n",
+        "# **Build a Machine Learning Model**\n",
         "\n",
         "**Scenario:** A Taxi company requested to build a machine learning model to predict if a customer will not leave a tip. They want to use the model in an app that will alert taxi drivers to customers who are unlikely to tip, since drivers depend on tips.\n",
         "\n",
